@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -224,13 +224,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "8f0978111e160f44",
+  "active": "b5b90abc0f869cbc",
   "lastOpenFiles": [
-    "Getting OMORI's Assets.md",
     "Map making.md",
-    "Map making without OMORI and RPGMaker MV.md",
-    "Pasted image 20260313150314.png",
     "Contributing.md",
+    "Map making without OMORI and RPGMaker MV.md",
+    "Getting OMORI's Assets.md",
+    "Pasted image 20260313150314.png",
     "README.md",
     "omori-a-c-mod",
     "Pasted image 20260313145503.png",
