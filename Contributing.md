@@ -18,6 +18,9 @@
 2. `git pull`
 3. `git add *`
 4. `git status`
-5. If there is anything that you think should be committed, you'll need to manually add it to the commit by doing (replacing the FILENAME  with the... uh, filename.):
+5. If there is anything that you think should be committed, you'll need to manually add it to the commit by doing (replacing the FILENAME  with the... uh, filename.). 
+	1. For example, when I update this vault's repo: ![[Pasted image 20260313235210.png]]
+	2. After running `git add *`:![[Pasted image 20260313235301.png]]
+	3. Manually adding the files (`git add .obsidian``):
 6. `git status FILENAME`
 7. Finally: `git push`
