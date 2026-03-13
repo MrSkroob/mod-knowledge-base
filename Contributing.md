@@ -21,6 +21,14 @@
 5. If there is anything that you think should be committed, you'll need to manually add it to the commit by doing (replacing the FILENAME  with the... uh, filename.). 
 	1. For example, when I update this vault's repo: ![[Pasted image 20260313235210.png]]
 	2. After running `git add *`:![[Pasted image 20260313235301.png]]
-	3. Manually adding the files (`git add .obsidian``):
-6. `git status FILENAME`
-7. Finally: `git push`
+	3. Manually adding the files (`git add .obsidian`) should shift everything up to the "Changes to be committed:"
+6. `git status FILENAME` (double check again)
+7. `git commit -m "YOUR COMMIT MESSAGE HERE"`
+	1. Try to be short, yet descriptive here. 
+	2. If you omit the `-m` argument, it should either open up your IDE (usually VSCode) or open up...
+	   **vim.**
+		1. Don't panic! Here are a few commands that should get you up to speed:
+			1. `i` goes into insert mode. It'll act as you expect (type as normal, backspace, etc.)
+			2. When done, press `escape` on your keyboard.
+			3. Type `:wq` if you're happy. Press `escape` again to cancel this command.
+8. Finally: `git push`: ![[Pasted image 20260313235834.png]]
