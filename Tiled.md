@@ -1,7 +1,7 @@
 [[Index]]
 #### Prerequisites:
 1. [RPGMaker MV](https://store.steampowered.com/app/363890/RPG_Maker_MV/)
-2. [Tiled 1.0.3](https://github.com/mapeditor/tiled/releases/download/v1.11.0/Tiled-1.11.0_Windows-10+_x86_64.msi)
+2. [Tiled (latest)](https://thorbjorn.itch.io/tiled)
 #### Steps:
 1. Install https://github.com/FoGsesipod/Terrain-Fix
 	1. Put this into your maps folder and replace the existing TerrainTiles.json ![[Pasted image 20260313124058.png]]

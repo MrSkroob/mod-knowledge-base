@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Map making.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Map making"
-            }
-          }
-        ]
-      },
-      {
-        "id": "9f599058d41f68cf",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e691aef04cce2c73",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "README"
             }
           }
         ]
@@ -94,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7664380b98069492",
@@ -198,22 +181,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "e691aef04cce2c73",
+  "active": "334c4c4a4a0b7d37",
   "lastOpenFiles": [
+    "Pasted image 20260313142037.png",
+    "Pasted image 20260313141915.png",
+    "Pasted image 20260313141841.png",
+    "Pasted image 20260313124426.png",
+    "Tiled.md",
+    "Testing.md",
     "Map making.md",
-    "Oneloader.md",
+    "README.md",
+    "Modifying Objects.md",
+    "Pasted image 20260313124354.png",
+    "Pasted image 20260313124352.png",
+    "Pasted image 20260313124328.png",
+    "Pasted image 20260313124216.png",
+    "Pasted image 20260313124058.png",
     "Index.md",
     "Getting OMORI's Assets.md",
-    "Testing.md",
+    "Oneloader.md",
     "Pasted image 20260312231146.png",
-    "Pasted image 20260312231132.png",
-    "Pasted image 20260312230955.png",
-    "Pasted image 20260312230717.png",
-    "Pasted image 20260312230520.png",
-    "Pasted image 20260312230500.png",
-    "Pasted image 20260312230337.png",
-    "Pasted image 20260312230303.png",
-    "Pasted image 20260312230246.png",
-    "Pasted image 20260312230127.png"
+    "Pasted image 20260312231132.png"
   ]
 }
