@@ -1,6 +1,6 @@
 # Hi!
 If you want to see this in its full glory (with proper links and everything!) please use Obsidian.
-
+Please note that these images won't work inside your local copy - this is intentional! They're meant to be viewable on GitHub.
 # Setting Up:
 #### Prerequisites:
 1. [Git](https://git-scm.com/install/)
