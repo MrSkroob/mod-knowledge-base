@@ -15,10 +15,10 @@ If you want to see this in its full glory (with proper links and everything!) pl
 	2. If you made a mistake, you can `cd ..` to go up a layer.
 		1. `cd ../../..` to go up multiple layers
 3. `git clone "https://github.com/MrSkroob/mod-knowledge-base"`
-4. Open the vault via Obsidian: ![[Pasted image 20260313141841.png|508]]
-5. ![[Pasted image 20260313141915.png|421]]
+4. Open the vault via Obsidian: ![](https://github.com/MrSkroob/mod-knowledge-base/blob/main/Pasted%20image%2020260313141841.png)
+5. ![](https://github.com/MrSkroob/mod-knowledge-base/blob/main/Pasted%20image%2020260313141915.png)
 # Getting updates
 #### Steps:
 1. Navigate to where you've saved your vault:
-2. ![[Pasted image 20260313142037.png]]
+2. ![](https://github.com/MrSkroob/mod-knowledge-base/blob/main/Pasted%20image%2020260313142037.png)
 3. `git pull`
