@@ -3,6 +3,9 @@
 1. [RPGMaker MV](https://store.steampowered.com/app/363890/RPG_Maker_MV/)
 2. [[Tiled]]
 3. [[Getting OMORI's Assets]]
+
+*Don't have OMORI or RPGMaker MV? Go here:*
+[[Map making without OMORI and RPGMaker MV]]
 #### Steps:
 1. Create shortcut to www_playtest folder.
 	1. Usually under here:![[Pasted image 20260312225903.png]]
@@ -13,10 +16,10 @@
 	3. Leave settings as default (but choose whatever Display Name you wish)
 4. Open the directory where you want your maps to be:
 	1. ![[Pasted image 20260312225903.png]]
-5. Find: 
+5. Find `map00_Template_32x32.json`: 
 	1. ![[Pasted image 20260312230127.png]]
 6. Copy and paste map, then rename it to the same one as you've given it in RPGMaker (in this case, it's map516).
-7. Open Tiled
+7. Open Tiled ^23b677
 8. No tiles found? 
 	1. ![[Pasted image 20260312230246.png]]
 	2. ![[Pasted image 20260312230303.png]]

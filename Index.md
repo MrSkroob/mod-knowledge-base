@@ -3,5 +3,6 @@ This is a small knowledge base compiled by me (Skrubunger) on how to make an Omo
 [[Getting OMORI's Assets]]
 [[Tiled]]
 [[Map making]]
+[[Contributing]]
 [[Testing]]
 [[Modifying Objects]]
