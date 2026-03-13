@@ -15,7 +15,7 @@
 	1. ![[Pasted image 20260312225903.png]]
 5. Find: 
 	1. ![[Pasted image 20260312230127.png]]
-6. Copy and paste map, then rename it to the same one as you've given it in RPGMaker (in the case, it's map516).
+6. Copy and paste map, then rename it to the same one as you've given it in RPGMaker (in this case, it's map516).
 7. Open Tiled
 8. No tiles found? 
 	1. ![[Pasted image 20260312230246.png]]
@@ -34,3 +34,4 @@
 14. If you want to add existing objects, find a map which contains the object you want. Then copy and paste.
 15. You can figure out the coordinates by going to Tiled again and checking...
 	1. ![[Pasted image 20260312230717.png]]
+	2. Please ignore the name. It'll be map516.json for your case. 

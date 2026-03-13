@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Tiled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Tiled"
             }
           }
         ]
@@ -183,24 +183,23 @@
   },
   "active": "334c4c4a4a0b7d37",
   "lastOpenFiles": [
+    "Index.md",
+    "Tiled.md",
+    "Map making.md",
+    "Testing.md",
+    "Getting OMORI's Assets.md",
+    "README.md",
     "Pasted image 20260313142037.png",
     "Pasted image 20260313141915.png",
     "Pasted image 20260313141841.png",
     "Pasted image 20260313124426.png",
-    "Tiled.md",
-    "Testing.md",
-    "Map making.md",
-    "README.md",
     "Modifying Objects.md",
     "Pasted image 20260313124354.png",
     "Pasted image 20260313124352.png",
     "Pasted image 20260313124328.png",
     "Pasted image 20260313124216.png",
     "Pasted image 20260313124058.png",
-    "Index.md",
-    "Getting OMORI's Assets.md",
     "Oneloader.md",
-    "Pasted image 20260312231146.png",
-    "Pasted image 20260312231132.png"
+    "Pasted image 20260312231146.png"
   ]
 }
