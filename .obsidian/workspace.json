@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Getting OMORI's Assets.md",
+                "file": "Contributing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Getting OMORI's Assets"
+              "title": "Contributing"
             }
           },
           {
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,14 +224,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "b5b90abc0f869cbc",
+  "active": "8f0978111e160f44",
   "lastOpenFiles": [
-    "Map making.md",
     "Getting OMORI's Assets.md",
+    "Map making.md",
+    "Map making without OMORI and RPGMaker MV.md",
     "Pasted image 20260313150314.png",
     "Contributing.md",
     "README.md",
-    "Map making without OMORI and RPGMaker MV.md",
     "omori-a-c-mod",
     "Pasted image 20260313145503.png",
     "Pasted image 20260313145430.png",
