@@ -1,7 +1,7 @@
 [[Index]]
 #### Prerequisites:
 1. [RPGMaker MV](https://store.steampowered.com/app/363890/RPG_Maker_MV/)
-2. [Tiled 1.0.3](https://github.com/mapeditor/tiled/releases/download/v1.11.0/Tiled-1.11.0_Windows-10+_x86_64.msi)
+2. [[Tiled]]
 3. [[Getting OMORI's Assets]]
 #### Steps:
 1. Create shortcut to www_playtest folder.

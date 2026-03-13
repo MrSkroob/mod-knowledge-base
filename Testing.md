@@ -1,7 +1,6 @@
 [[Index]]
-Prerequisites:
+#### Prerequisites:
 1. [[Map making]]
-
 #### Steps:
 1. ![[Pasted image 20260312230955.png]]
 2. Select any save file that's runnable. 
