@@ -20,4 +20,4 @@ message_xx:
 	# ^^the message to send
 ```
 5. Go to an event you've made and add a Plugin Command:
-`ShowMessage test.`
+`ShowMessage test.message_xx`
