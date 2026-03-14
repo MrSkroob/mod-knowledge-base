@@ -36,6 +36,7 @@
 			1. `i` goes into insert mode. It'll act as you expect (type as normal, backspace, etc.)
 			2. When done, press `escape` on your keyboard.
 			3. Type `:wq` if you're happy. Press `escape` again to cancel this command.
+			4. If you just want to GET OUT, type `:q!`
 7. Finally: `git push`: ![[Pasted image 20260313235834.png]]
 Next, take a look at: 
 [[Tiled]]

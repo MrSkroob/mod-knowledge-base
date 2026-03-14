@@ -11,3 +11,4 @@ The instructions given are fairly loose; they usually contain more niche knowled
 5. [[Testing]]
 6. [[Events]]
 7. [[Creating Messages]]
+8. [[JavaScript]]
