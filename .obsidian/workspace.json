@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Creating Messages.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "Creating Messages"
             }
           },
           {
@@ -149,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7664380b98069492",
@@ -254,11 +255,12 @@
   },
   "active": "6376d843c671f036",
   "lastOpenFiles": [
-    "Creating Messages.md",
+    "Pasted image 20260314013208.png",
     "Events.md",
+    "Index.md",
+    "Creating Messages.md",
     "Map making.md",
     "Tiled.md",
-    "Index.md",
     "Contributing.md",
     "Getting OMORI's Assets.md",
     "Adding and Modifying Objects.md",
