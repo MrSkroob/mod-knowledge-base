@@ -13,7 +13,7 @@
 3. Create a new map
 	1. ![[Pasted image 20260312225950.png]]
 	2. ![[Pasted image 20260312230014.png]]
-	3. Leave settings as default (but choose whatever Display Name you wish)
+	3. Leave settings as default (but choose whatever Display Name you wish), but set the `Width` and `Height` to 32. 
 4. Open the directory where you want your maps to be:
 	1. ![[Pasted image 20260312225903.png]]
 5. Find `map00_Template_32x32.json`: 
@@ -38,3 +38,7 @@
 15. You can figure out the coordinates by going to Tiled again and checking...
 	1. ![[Pasted image 20260312230717.png]]
 	2. Please ignore the name. It'll be map516.json for your case. 
+	3. And then matching the coordinates to: ![[Pasted image 20260314001051.png]]
+
+Next, take a look at:
+[[Events]]

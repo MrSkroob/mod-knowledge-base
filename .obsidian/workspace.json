@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "334c4c4a4a0b7d37",
+            "id": "db2dbcce7417d41d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,7 +22,21 @@
             }
           },
           {
-            "id": "8f0978111e160f44",
+            "id": "aad6e7d13d4d7ea9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contributing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Contributing"
+            }
+          },
+          {
+            "id": "6376d843c671f036",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,7 +50,7 @@
             }
           },
           {
-            "id": "8e65a46fe7ef17fd",
+            "id": "d151ae0c8dd79354",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contributing.md",
+                "file": "Map making.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Contributing"
+              "title": "Map making"
             }
           },
           {
@@ -69,16 +83,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Map making without OMORI and RPGMaker MV.md",
+                "file": "Tiled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Map making without OMORI and RPGMaker MV"
+              "title": "Tiled"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -238,32 +252,33 @@
       "bases:Create new base": false
     }
   },
-  "active": "6a7a01d3c948cd32",
+  "active": "6376d843c671f036",
   "lastOpenFiles": [
+    "Creating Messages.md",
+    "Events.md",
+    "Map making.md",
+    "Tiled.md",
+    "Index.md",
+    "Contributing.md",
+    "Getting OMORI's Assets.md",
+    "Adding and Modifying Objects.md",
+    "Pasted image 20260314011311.png",
+    "Pasted image 20260314005306.png",
+    "Pasted image 20260314005233.png",
+    "Pasted image 20260314002930.png",
+    "Pasted image 20260314002313.png",
+    "Pasted image 20260314001805.png",
+    "Pasted image 20260314001051.png",
+    "Pasted image 20260314000843.png",
+    "Map making without OMORI and RPGMaker MV.md",
     "Pasted image 20260313235834.png",
     "Pasted image 20260313235301.png",
-    "Pasted image 20260313235210.png",
-    "Index.md",
-    "Map making.md",
     "How to Read.md",
-    "Map making without OMORI and RPGMaker MV.md",
-    "Contributing.md",
-    "Adding and Modifying Objects.md",
-    "Getting OMORI's Assets.md",
     "Untitled",
-    "Pasted image 20260313150314.png",
     "README.md",
     "omori-a-c-mod",
-    "Pasted image 20260313145503.png",
-    "Pasted image 20260313145430.png",
-    "Pasted image 20260313145352.png",
-    "Pasted image 20260313144833.png",
-    "Pasted image 20260313144830.png",
-    "Tiled.md",
     "map00_Template_32x32.json",
     "Testing.md",
-    "Pasted image 20260313142037.png",
-    "Pasted image 20260313141915.png",
     "Oneloader.md"
   ]
 }

@@ -12,4 +12,6 @@
 	3. Open the plugins manager: ![[Pasted image 20260313124328.png]]
 	4. Double click the empty spot at the bottom: ![[Pasted image 20260313124354.png]]
 	5. Click on the .js file you pasted in the plugins folder:![[Pasted image 20260313124426.png]]
-3. Now go [[Testing]]!
+Next, take a look at: 
+[[Map making]]
+[[Map making without OMORI and RPGMaker MV]]
