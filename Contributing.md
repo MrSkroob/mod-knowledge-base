@@ -6,14 +6,11 @@
 4. Optionally, you don't need Prerequisite #2, but when contributing to maps, you'll need to follow [[Map making without OMORI and RPGMaker MV]]. 
 #### Steps:
 ##### Set up:
-1. Use Git Bash and `cd` to wherever you want 
-2. `git clone "https://github.com/MrSkroob/omori-a-c-mod/tree/main"`
+1. Use Git Bash and `cd` to wherever you want.
+	1. If you have OMORI, navigate into the the OMORI directory (see below screenshot for a guide). Do NOT go INSIDE the `www` folder.  ![[Pasted image 20260312225903.png]]
+2. `git clone "https://github.com/MrSkroob/omori-a-c-mod"`
 	1. This will take a while.
-
-**(Optional) update your decrypted files:**
-3. Navigate to: ![[Pasted image 20260312225903.png]]
-4. Copy the `www_playtest_539a4027` name and rename the cloned repository to that name.
-5. Cut and paste your cloned repository into the same place as the existing `www_playtest` and make sure to **replace**.
+3. Rename the new folder as `www_playtest_539a4027`
 ##### Updating:
 
 ^c0dd79
