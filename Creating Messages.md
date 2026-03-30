@@ -34,6 +34,10 @@ message_xx:
 		1. Wait for user input.
 	5. \fr
 		1. Resets the font. 
+	6. **For extended YAML plugin only:**
+		1. ```yaml
+		   font: font_name_here
+		   ```
 7. In your event, create a Plugin Command:
 	1. `ShowMessage YAML_FILE.message_xx`
 	2. Tada!

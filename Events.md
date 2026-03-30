@@ -28,9 +28,10 @@
 6. Fill out the red section.
 	1. This is basically a scripting window - controls what happens when that event occurs. You can call event methods through here, so any complex logic can be handled in an external `.js` file instead. 
 	2. ...because this is mostly written for me (Skrubunger) and I understand most of this... don't expect me to tell you what this stuff does HAHAHAHAHAHAHA!!
-	   That said, there's one thing I want to point out:
+	   That said, there's a few things I want to point out:
 		1. Scripts:
-			1. Scripts are basically short few lines that are javascript. That's it. Vanilla RPG Maker MV allows 12 lines at most. Any more and you should write a plugin and call that instead. 
+			1. Scripts are basically short few lines that are JavaScript. That's it. Vanilla RPG Maker MV allows 12 lines at most. Any more and you should write a plugin and call that instead. 
+			2. OMORI has some that have 13 lines. **DO NOT TOUCH THEM**. Doing so will break them. 
 		2. Plugin command:
 			1. Syntax: `function arg0`
 			2. The args will always be passed as strings.
@@ -39,5 +40,6 @@
 	2. It acts like a switch-case. So if page 3 has its conditions fulfilled, it'll execute page 3. If not, check page 2, etc.
 	3. After executing a page, it will not check the rest of the pages.
 Next, take a look at:
+[[JavaScript]]
 [[Creating Messages]]
 
